@@ -1,5 +1,5 @@
 #########################################################
-# DO Community Playbooks: Wordpress on Ubuntu 18.04 LAMP
+# Bet-Makers Playbooks: Wordpress on Ubuntu 20.04 LAMP
 #########################################################
 ---
 - hosts: all
